@@ -1,0 +1,40 @@
+/* desendent combinator  */
+/* div p{
+    background-color: yellow;
+} */
+
+
+
+
+/* child combinator  */
+/* .a > p{
+      background-color: yellow;
+}
+
+.b > p{
+    background-color: green;
+}
+
+h1 > p{
+    background-color: aqua;
+} */
+
+
+
+/* adjacent sibilings combinator  */
+/* .a + p{
+    background-color: blue;
+} */
+
+
+/* general sibiling selctor  */
+/* div ~ p{
+    background-color: brown;
+} */
+
+
+
+/* attribute selector  */
+input[type]{
+    background-color: blue;
+}

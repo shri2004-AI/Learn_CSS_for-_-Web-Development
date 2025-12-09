@@ -1,0 +1,36 @@
+h2::first-letter{
+    font-size: 3rem;
+    background-color: red;
+}
+
+p::first-line{
+    background-color: burlywood;
+}
+
+::selection{
+    color: greenyellow;
+    background-color: black;
+}
+
+/* before and after  */
+
+h3::before{
+    content: 'this is begining';
+}
+
+h3::after{
+    content: '*';
+}
+
+.required::after{
+    content: '*';
+    color: red;
+}
+
+.important::after{
+    content: 'important';
+    background-color: red;
+    color: aliceblue;
+    padding: 0.2rem;
+    font-size: 0.5rem;
+}

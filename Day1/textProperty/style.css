@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    border:solid;
+    text-decoration: wavy red underline;
+}
+p{
+    text-align: justify;
+    line-height:2.3;
+}
+h4{
+    font-weight:bold;
+}
+

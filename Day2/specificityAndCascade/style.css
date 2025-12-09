@@ -1,0 +1,19 @@
+/* the specificity of this selector is 1  */
+h1{
+    color: aqua;
+}
+
+/* the specificity of this selector is 10 */
+.yellow{
+    color: yellow;
+}
+
+/* the specificity of this selector is 10  */
+.red{
+    color: red;
+}
+
+/* the specificity of this selector is 10  */
+.purple{
+    color: purple;
+}
