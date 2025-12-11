@@ -28,13 +28,13 @@ h1 > p{
 
 
 /* general sibiling selctor  */
-/* div ~ p{
+div ~ p{
     background-color: brown;
-} */
+}
 
 
 
 /* attribute selector  */
-input[type]{
+/* input[type]{
     background-color: blue;
-}
+} */
