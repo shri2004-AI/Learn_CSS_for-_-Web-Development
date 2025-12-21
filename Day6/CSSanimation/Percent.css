@@ -1,0 +1,25 @@
+.box{
+    height: 100px;
+    width: 300px;
+    background-color: pink;
+    animation:fontAnimation 2s ease-in 0s infinite normal ;
+
+}
+
+
+   @keyframes fontAnimation{
+    0%{
+        width:10px;
+        background-color: green;
+    }
+    50%{
+        width:400px;
+        background-color: blue;
+        border-radius: 15px;
+    }
+    100%{
+        width: 800px;
+        background-color:red ;   
+        border-radius: 30px;
+    }
+} 

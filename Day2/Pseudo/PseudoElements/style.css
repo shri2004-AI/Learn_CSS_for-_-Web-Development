@@ -14,8 +14,9 @@ p::first-line{
 
 /* before and after  */
 
+
 h3::before{
-    content: 'this is begining';
+    content: 'this is begining => ';
 }
 
 h3::after{

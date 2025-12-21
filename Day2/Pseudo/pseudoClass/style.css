@@ -6,6 +6,7 @@ body{
 .primary_button:link{
         color: green;
         padding: 10px;
+        text-decoration: none;
 }
 .primary_button:visited{
         color: orange;
@@ -31,12 +32,11 @@ ul li:last-child{
     background-color: red;
 }
 
-
 /*
 nth child 
 an+b
 */
 
-ul li:nth-child(4){
+ul li:nth-child(3){
     background-color: green;
 }
