@@ -1,19 +1,19 @@
-/* h2{
+h2{
     display: inline;
     background-color: pink;
 }
 span{
     display: block;
     background-color: aqua
-} */
+}
 
-/* span{
+span{
     border: 2px solid black;
     height: 100px;
     width: 200px;
     padding: 50px;   
     margin: 50px;   
-} */
+}
 
 div{
     border: 2px solid black;

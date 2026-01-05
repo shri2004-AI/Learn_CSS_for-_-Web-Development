@@ -12,7 +12,7 @@ div{
 div:nth-of-type(2n){
     background-color: #f7db6a;
 }
-div:nth-of-type(3n){
+div:nth-of-type(3){
     background-color: #ebb02d;
 }
 
@@ -24,12 +24,12 @@ div:nth-of-type(3n){
 
 
 /* #two{
-    transform: scale(2)
+    transform: scale(1.5)
 } */
 
 #three{
     /* transform: translate(100px,100px); */
-    /* transform: translateX(-100px); */
+    /* transform: translate(-100px,120px); */
 }
 
 /* #four{
@@ -38,4 +38,4 @@ div:nth-of-type(3n){
 
 #five{
     transform: rotate(40deg) translateX(100px);
-}
+} 

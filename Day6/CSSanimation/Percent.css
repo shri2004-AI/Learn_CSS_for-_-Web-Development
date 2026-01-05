@@ -1,6 +1,7 @@
 .box{
     height: 100px;
     width: 300px;
+    padding: 20px;
     background-color: pink;
     animation:fontAnimation 2s ease-in 0s infinite normal ;
 

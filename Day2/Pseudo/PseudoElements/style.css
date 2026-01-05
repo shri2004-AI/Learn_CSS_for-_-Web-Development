@@ -8,7 +8,7 @@ p::first-line{
 }
 
 ::selection{
-    color: greenyellow;
+    color: rgb(133, 208, 21);
     background-color: black;
 }
 

@@ -28,7 +28,7 @@ h1 > p{
 
 
 /* general sibiling selctor  */
-div ~ p{
+.a ~ p{
     background-color: brown;
 }
 
