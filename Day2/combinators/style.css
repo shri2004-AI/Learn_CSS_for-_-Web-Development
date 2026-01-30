@@ -9,9 +9,10 @@
 /* child combinator  */
 /* .a > p{
       background-color: yellow;
-}
+} */
 
-.b > p{
+
+/* .b > p{
     background-color: green;
 }
 
@@ -28,9 +29,9 @@ h1 > p{
 
 
 /* general sibiling selctor  */
-.a ~ p{
+/* .a ~ p{
     background-color: brown;
-}
+} */
 
 
 

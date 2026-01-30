@@ -17,8 +17,8 @@ div:nth-of-type(3){
 }
 
 /* transform  */
-
-/* #one{
+/* 
+#one{
     transform:rotate(90deg) ;
 } */
 
@@ -28,14 +28,15 @@ div:nth-of-type(3){
 } */
 
 #three{
-    /* transform: translate(100px,100px); */
-    /* transform: translate(-100px,120px); */
+    /* transform: translate(200px,0px);  */
+    /* transform: translate(-100px,-100px); */
 }
 
 /* #four{
-    transform: skew(30deg);
+    transform: skew(80deg);
 } */
 
+/* 
 #five{
-    transform: rotate(40deg) translateX(100px);
-} 
+    transform: rotate(90deg) translateX(100px);
+}  */

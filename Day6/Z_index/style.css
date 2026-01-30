@@ -8,7 +8,7 @@
 .one{
     background-color: aquamarine;
     position: relative;
-    z-index: 1;
+    /* z-index: 1; */
 }
 .two{
     background-color: darksalmon;

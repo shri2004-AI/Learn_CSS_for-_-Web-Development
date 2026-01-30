@@ -6,9 +6,9 @@
     border: 2px solid black;
     display: flex;
     flex-direction:row;
-    /* flex-wrap: wrap;  */
+    flex-wrap: wrap; 
     justify-content: center;
-    align-items:baseline;
+    align-items: center;
 }
 
 h1{

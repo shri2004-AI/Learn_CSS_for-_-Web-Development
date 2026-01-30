@@ -20,7 +20,7 @@ h3::before{
 }
 
 h3::after{
-    content: '*';
+    content: ' *';
 }
 
 .required::after{
